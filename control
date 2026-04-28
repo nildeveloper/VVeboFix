@@ -1,0 +1,9 @@
+Package: com.lhl.vvebofix
+Name: VVeboFix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix VVebo user timeline and fans list display
+Maintainer: Your Name
+Author: lhl
+Section: Tweaks
